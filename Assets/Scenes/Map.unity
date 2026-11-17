@@ -2257,9 +2257,9 @@ MonoBehaviour:
     sceneName: Lotus Island
     routeVideo: {fileID: 32900000, guid: e54e69f4261209c41866a89d7182df5a, type: 3}
     completedRouteImage: {fileID: 1403696861}
-    hideWhenVideoStarts: {fileID: 0}
-    levelUI: {fileID: 0}
-    canvasGroup: {fileID: 0}
+    hideWhenVideoStarts: {fileID: 1244968571}
+    levelUI: {fileID: 1049573131}
+    canvasGroup: {fileID: 1049573132}
     levelButton: {fileID: 1581379468}
   - levelName: Cyclops' Cave
     sceneName: Cyclops' Cave
